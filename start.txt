@@ -1,0 +1,4 @@
+:Test Git Quick Start demo >> start.txt
+ls
+echo :Test Git Quick Start demo
+Test Git Quick Start demo2
